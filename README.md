@@ -15,7 +15,7 @@ This web app uses the [Open-Meto's](https://open-meteo.com/) [Weather Forecast A
 [Vite](https://vitejs.dev/) was used as the development environment 
 
 ## Responsive Design
-- A design that adapts to different screen sizes
+A design that adapts to different screen sizes
 
 Small            |  Large
 :-------------------------:|:-------------------------:
